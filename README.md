@@ -28,3 +28,30 @@ CPU: Intel Core i5-8400 or AMD Ryzen 5 2600 (or better)
 All required packages are listed in my_current_env_list.txt. To install dependencies: you can recreate the environment from the provided .yml file using Conda:
 
 conda env create -f environment.yml conda activate Microscopy_Analysis_Advanced2 # example env name
+
+
+Package Install: The Repository contains a complete package list. Please perform a PIP install for the required and imported package versions as indicated in my_current_env_list.txt and the script (3D) or FLIP.
+
+🧰 Source Code Description
+
+This repository includes following primary components:
+
+Macrophage Nuclear Mechanotransduction Analysis Script
+Neutrophil Tracking Analysis Script 
+Macrophage Tracking Analysis Script
+Frame of Onset Permeability Analysis Script
+MATLAB Area Under Curve Database Analysis Script
+
+
+📋 Usage Guidelines
+Anaconda Navigator
+VS Code
+.YML Package Install
+Set Up the Environment
+Install the required packages as described above (YAML or pip).
+Use the recommended Python environment (e.g., Microscopy_Analysis_Advanced2).
+Ensure the interpreter is set to the proper Python 3.9 environment.
+
+Run the script to generate output.
+
+The file has to be first opened in VS Code or Pycharm with Proper Python Interpreter (this is the Environment, 3.9 Python Base that should be installed from .yml file) - For example, Microscopy_Analysis_Advanced2 (My Current Environment).
