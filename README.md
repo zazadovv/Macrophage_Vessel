@@ -29,7 +29,7 @@ Recommended Hardware (Minimum)
 
 RAM: 64 GB+ DDR4/DDR5 @ 3600 MT/s
 
-GPU: NVIDIA RTX Quadro P4000 / GeForce RTX 3070 or similar (≥ 8 GB VRAM)
+GPU: NVIDIA RTX Quadro P4000 / GeForce RTX 2070 or similar (≥ 8 GB VRAM)
 
 CPU: Intel Core i5-8400 or AMD Ryzen 5 2600 (or better)
 
