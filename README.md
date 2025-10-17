@@ -44,12 +44,16 @@ Package Install: The Repository contains a complete package list. Please perform
 
 🧰 Source Code Description
 
-This repository includes following primary components:
+This repository includes the following primary components:
 
 Macrophage Nuclear Mechanotransduction Analysis Script
+
 Neutrophil Tracking Analysis Script 
+
 Macrophage Tracking Analysis Script
+
 Frame of Onset Permeability Analysis Script
+
 MATLAB Area Under Curve Database Analysis Script
 
 
