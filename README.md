@@ -1,3 +1,15 @@
+3dpf Zebrafish Macrophage
+Yellow: eGFP-KDEL; Magenta: cPla2-mKate2
+[240420_mpeg_cpla_hypo_laser_r7_decon - Denoise_ai-MaxIP-3-1-4.tif](https://github.com/user-attachments/files/22978037/240420_mpeg_cpla_hypo_laser_r7_decon.-.Denoise_ai-MaxIP-3-1-4.tif)
+
+
+
+
+
+
+
+
+
 🧭 Repository Overview
 
 This repository provides guidelines and part of the source code used in:
