@@ -64,13 +64,20 @@ MATLAB Area Under Curve Database Analysis Script
 
 📋 Usage Guidelines
 Anaconda Navigator
+
 VS Code
+
 .YML Package Install
+
 Set Up the Environment
+
 Install the required packages as described above (YAML or pip).
+
 Use the recommended Python environment (e.g., Microscopy_Analysis_Advanced2).
+
 Ensure the interpreter is set to the proper Python 3.9 environment.
 
 Run the script to generate output.
 
 The file has to be first opened in VS Code or Pycharm with Proper Python Interpreter (this is the Environment, 3.9 Python Base that should be installed from .yml file) - For example, Microscopy_Analysis_Advanced2 (My Current Environment).
+
