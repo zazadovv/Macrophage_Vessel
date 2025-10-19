@@ -66,23 +66,40 @@ VS Code | Download VS Studio Code (Version:1.105.1) and install for Windows, for
 Open Anaconda prompt and navigate (base) to the folder directory with the CD command. 
 
 
+
+
 Set Up the Environment
 
 Install the required packages as described above (YAML or pip). 
 Run command in Anaconda Propmt while in the right directory,
 
+
+
+
 conda env create -f environment_Nucleus.yml
 
 3D macrophage Analysis
 
+
+
+
 or
 
 
-conda env create -f environment.yml
-2D+T
-Use the recommended Python environment (e.g., Microscopy_Analysis_Advanced2).
 
-Ensure the interpreter is set to the proper Python 3.9 environment.
+
+
+
+conda env create -f environment.yml
+2D+T Tracking and Frame of Onset.
+
+
+
+
+
+Use the recommended Python environment (e.g., Microscopy_Analysis_Advanced2 or Nucleus_Analysis).
+
+Ensure the interpreter is set to the proper Python 3.9(Microscopy_Analysis_Advanced2)/3.8(Nucleus_Analysis) environment.
 
 Run the script to generate output.
 
