@@ -1906,7 +1906,7 @@ Demo Macrophage Analysis:
 
 
 
-
+The Script outpts file_segmentation_result.hdf5 file and result.csv file, which contains object data for mid-section volume, and rim-binding. These files were taken and manually cropped and registered for time of wounding and compared between wound conditions. 
 
 
 Demo Tracking Analysis:
