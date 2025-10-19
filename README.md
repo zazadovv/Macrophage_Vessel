@@ -68,7 +68,24 @@ Open Anaconda prompt and navigate (base) to the folder directory with the CD com
 
 
 
-Set Up the Environment
+📦 Setting Up the Environment (.yml File)
+1. Download and Prepare the Environment File
+
+Download the provided .yml file (e.g., environment_Nucleus.yml or environment.yml) to your system.
+
+Place it in a dedicated folder for clarity.
+
+
+
+2. Create the Conda Environment
+
+Open Anaconda Prompt (in base environment).
+
+Navigate to the folder containing the .yml file using:
+
+
+
+
 
 Install the required packages as described above (YAML or pip). 
 Run command in Anaconda Propmt while in the right directory,
@@ -76,7 +93,7 @@ Run command in Anaconda Propmt while in the right directory,
 
 
 
-conda env create -f environment_Nucleus.yml
+- conda env create -f environment_Nucleus.yml
 
 3D macrophage Analysis
 
@@ -90,7 +107,8 @@ or
 
 
 
-conda env create -f environment.yml
+- conda env create -f environment.yml
+  
 2D+T Tracking and Frame of Onset.
 
 
