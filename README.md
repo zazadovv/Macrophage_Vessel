@@ -203,11 +203,12 @@ Demo Tracking Analysis:
 
 
 
-Demo Frame of Onset Analysis:
-Run the Frame of Onset Analysis Script with GPU-assist,
-Thresholds are auto-determined, however at the end of the automated analysis the script prompts a widget display in case adjustments for trheshold are needed.
+Demo Frame of Onset Analysis:  
 
-The prompt brings three widgets, first adjust lower intensity threshold cutoff, in addition to smoothening and other functions. widget2 is a percentile threshold for intensity throughout all given time-frames; widget 3 is a LUT display for distribution of pixel intensity for select channel. 
+Run the Frame of Onset Analysis Script with GPU-assist,  
+Thresholds are auto-determined, however at the end of the automated analysis the script prompts a widget display in case adjustments for trheshold are needed.  
+
+The prompt brings three widgets, first adjust lower intensity threshold cutoff, in addition to smoothening and other functions. widget2 is a percentile threshold for intensity throughout all given time-frames; widget 3 is a LUT display for distribution of pixel intensity for select channel.  
 
 <img width="1930" height="1183" alt="Screenshot 2025-10-17 151911" src="https://github.com/user-attachments/assets/0fbbd9af-81c9-4a79-b5ec-6bf80482af6f" />
 
