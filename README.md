@@ -104,7 +104,6 @@ After Running the scode in VS with proper 3.8 Python Interpreter, the first prom
 
 
 
-
 <img width="3833" height="2006" alt="Screenshot 2025-10-19 003926" src="https://github.com/user-attachments/assets/1a162fd3-d681-4bb5-b6f2-a817836af17f" />
 
 
@@ -118,7 +117,9 @@ After Running the scode in VS with proper 3.8 Python Interpreter, the first prom
 
 <img width="3826" height="1973" alt="Screenshot 2025-10-19 013119" src="https://github.com/user-attachments/assets/dd5f4ee3-2761-4460-990c-0db0ab6db9ad" />
 
+At the end the analysis Script ask if any IDs should be removed: these were either manually removed from non-filtered analysis or were filtered within the program; cells that were directly damaged from UV laser were removed from analysis.
 
+Output:
 
 The Script outpts file_segmentation_result.hdf5 file and result.csv file, which contains object data for mid-section volume, and rim-binding. These files were taken and manually cropped and registered for time of wounding and compared between wound conditions. 
 
