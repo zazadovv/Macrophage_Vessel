@@ -112,14 +112,31 @@ or
 2D+T Tracking and Frame of Onset.
 
 
+🖥 IDE Configuration (VS Code / PyCharm)
+
+Open the project or script in VS Code or PyCharm.
+
+Select the correct interpreter:
+
+Python 3.8 – Nucleus_Analysis (3D macrophage module)
+
+Python 3.9 – Microscopy_Analysis_Advanced2 (2D+T tracking)
+
+Ensure the selected Python interpreter matches the environment created from the .yml file.
 
 
 
-Use the recommended Python environment (e.g., Microscopy_Analysis_Advanced2 or Nucleus_Analysis).
+▶ Running the 3D Macrophage Analysis Script
 
-Ensure the interpreter is set to the proper Python 3.9(Microscopy_Analysis_Advanced2)/3.8(Nucleus_Analysis) environment.
+Launch VS Code (or PyCharm) using the correct interpreter.
 
-Run the script to generate output.
+Run the script.
+
+When prompted, enter the number of frames to process (e.g., 20, 25, 30).
+
+Any non-zero frame number is accepted.
+
+The script will proceed with loading, segmentation, and analysis of 3D macrophage data.
 
 The file has to be first opened in VS Code or Pycharm with Proper Python Interpreter (this is the Environment, 3.9 Python Base that should be installed from .yml file) - For example, Microscopy_Analysis_Advanced2 (My Current Environment).
 
