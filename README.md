@@ -1883,7 +1883,13 @@ The file has to be first opened in VS Code or Pycharm with Proper Python Interpr
 
 Demo Macrophage Analysis:
 
+Processing Steps:
 
+After Running the scode in VS with proper 3.8 Python Interpreter, the first prompt allows to indicate how many frames to process: in this example I indicated 20;25;30 - any non-0 points can be chosen. 
+
+<img width="431" height="178" alt="Screenshot 2025-10-19 003222" src="https://github.com/user-attachments/assets/421dcef5-d825-4f3b-a10c-36f2407f47bb" />
+
+<img width="1724" height="166" alt="Screenshot 2025-10-19 002957" src="https://github.com/user-attachments/assets/f89ff08f-a761-4442-b27c-ec88cd8c9c8b" />
 
 <img width="3831" height="1938" alt="DEMO_OUTPUT" src="https://github.com/user-attachments/assets/110d7b62-19f8-4240-bc32-4664ebbe2f28" />
 
