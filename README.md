@@ -17,6 +17,8 @@ Gelashvili et al., 2024
 Representative demo file outputs for testing the software.
 
 
+_________________________________________________________________________________________________________________________________________________________
+
 💻 System Requirements
 
 Operating System
@@ -33,6 +35,8 @@ GPU: NVIDIA RTX Quadro P4000 / GeForce RTX 2070 or similar (≥ 8 GB VRAM)
 
 CPU: Intel Core i5-8400 or AMD Ryzen 5 2600 (or better)
 
+_________________________________________________________________________________________________________________________________________________________
+
 📦 Package Installation
 
 All required packages are listed in my_current_env_list.txt. To install dependencies: you can recreate the environment from the provided .yml file using Conda:
@@ -40,7 +44,10 @@ All required packages are listed in my_current_env_list.txt. To install dependen
 conda env create -f environment.yml conda activate Microscopy_Analysis_Advanced2 # example env name
 
 
-Package Install: The Repository contains a complete package list. Please perform a PIP install for the required and imported package versions as indicated in my_current_env_list.txt and the script (3D) or FLIP.
+Package Install: The Repository contains a complete package list. Please perform a PIP install for the required and imported package versions as indicated in my_current_env_list.txt and the script.
+
+_________________________________________________________________________________________________________________________________________________________
+
 
 🧰 Source Code Description
 
@@ -56,6 +63,9 @@ Frame of Onset Permeability Analysis Script
 
 MATLAB Area Under Curve Database Analysis Script
 
+_________________________________________________________________________________________________________________________________________________________
+
+
 
 📋 Usage Guidelines
 Anaconda Navigator | download Anaconda Navigator and install Anaconda3-2025.06- for Windows, for details, follow the instructions on the  website  https://www.anaconda.com/download 
@@ -66,7 +76,7 @@ VS Code | Download VS Studio Code (Version:1.105.1) and install for Windows, for
 Open Anaconda prompt and navigate (base) to the folder directory with the CD command. 
 
 
-
+_________________________________________________________________________________________________________________________________________________________
 
 📦 Setting Up the Environment (.yml File)
 1. Download and Prepare the Environment File
@@ -75,8 +85,6 @@ Download the provided .yml file (e.g., environment_Nucleus.yml or environment.ym
 
 Place it in a dedicated folder for clarity.
 
-
-
 2. Create the Conda Environment
 
 Open Anaconda Prompt (in base environment).
@@ -84,33 +92,21 @@ Open Anaconda Prompt (in base environment).
 Navigate to the folder containing the .yml file using:
 
 
-
-
-
 Install the required packages as described above (YAML or pip). 
 Run command in Anaconda Propmt while in the right directory,
-
-
-
 
 - conda env create -f environment_Nucleus.yml
 
 3D macrophage Analysis
 
-
-
-
 or
-
-
-
-
 
 
 - conda env create -f environment.yml
   
 2D+T Tracking and Frame of Onset.
 
+_________________________________________________________________________________________________________________________________________________________
 
 🖥 IDE Configuration (VS Code / PyCharm)
 
@@ -124,7 +120,7 @@ Python 3.9 – Microscopy_Analysis_Advanced2 (2D+T tracking)
 
 Ensure the selected Python interpreter matches the environment created from the .yml file.
 
-
+_________________________________________________________________________________________________________________________________________________________
 
 ▶ Running the 3D Macrophage Analysis Script
 
