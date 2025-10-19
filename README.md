@@ -141,6 +141,8 @@ Demo Macrophage Analysis:
 
 Processing Steps:
 
+First initialize the pycache module, Macrophage_3D_Analysis_Module.py and subsequently run the program. 
+
 After Running the scode in VS with proper 3.8 Python Interpreter, the first prompt allows to indicate how many frames to process: in this example I indicated 20;25;30 - any non-0 points can be chosen. 
 
 
