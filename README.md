@@ -182,6 +182,16 @@ Demo Tracking Analysis:
 
 ![20230713_3dpf_tgNTR2 0_QUAS_LYZ_QF2_24hrs_DMSO_70kDaDextran_ISOHYPO_E8_F11](https://github.com/user-attachments/assets/364189f4-73ee-48eb-99d6-08a85443ccc3)
 
+
+
+<img width="2488" height="925" alt="Screenshot 2025-10-17 152004" src="https://github.com/user-attachments/assets/a8b8245d-c9f6-4c39-83f3-1cac33aa1531" />
+<img width="800" height="800" alt="20230713_3dpf_tg(NTR2 0_QUAS_LYZ_QF2)_24hrs_DMSO_70kDa Dextran_ISO+HYPO_E8_F11_ghost_overlay" src="https://github.com/user-attachments/assets/39606f3d-4d7e-4e92-bf03-dc85ec041749" />
+
+
+
+
+
+
 ![20230713_3dpf_tg(NTR2 0_QUAS_LYZ_QF2)_24hrs_DMSO_70kDa Dextran_ISO+HYPO_E8_F11_napari_direct (1)](https://github.com/user-attachments/assets/b575ed30-bfa3-437d-ae36-9aab93a14b84)
 
 
