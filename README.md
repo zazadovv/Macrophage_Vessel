@@ -1891,15 +1891,18 @@ Demo Macrophage Analysis:
 
 
 
+<img width="3833" height="2006" alt="Screenshot 2025-10-19 003926" src="https://github.com/user-attachments/assets/1a162fd3-d681-4bb5-b6f2-a817836af17f" />
 
 
 
 
 
+<img width="3826" height="2004" alt="Screenshot 2025-10-19 004846" src="https://github.com/user-attachments/assets/8bc73e80-43fb-48eb-9ce3-55871d924b46" />
 
 
 
 
+<img width="3826" height="1973" alt="Screenshot 2025-10-19 013119" src="https://github.com/user-attachments/assets/dd5f4ee3-2761-4460-990c-0db0ab6db9ad" />
 
 
 
