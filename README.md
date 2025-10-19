@@ -112,6 +112,10 @@ Processing Steps:
 
 After Running the scode in VS with proper 3.8 Python Interpreter, the first prompt allows to indicate how many frames to process: in this example I indicated 20;25;30 - any non-0 points can be chosen. 
 
+
+<img width="1690" height="1165" alt="Screenshot 2025-10-19 030253" src="https://github.com/user-attachments/assets/a948901d-c29b-4dfe-b8d8-e2ec8a0d14f1" />
+
+
 <img width="431" height="178" alt="Screenshot 2025-10-19 003222" src="https://github.com/user-attachments/assets/421dcef5-d825-4f3b-a10c-36f2407f47bb" />
 
 <img width="1724" height="166" alt="Screenshot 2025-10-19 002957" src="https://github.com/user-attachments/assets/f89ff08f-a761-4442-b27c-ec88cd8c9c8b" />
@@ -148,6 +152,7 @@ Demo Tracking Analysis:
 ![20230713_3dpf_tg(NTR2 0_QUAS_LYZ_QF2)_24hrs_DMSO_70kDa Dextran_ISO+HYPO_E8_F11_napari_direct (1)](https://github.com/user-attachments/assets/b575ed30-bfa3-437d-ae36-9aab93a14b84)
 
 
+<img width="3817" height="1940" alt="Screenshot 2025-10-17 150308" src="https://github.com/user-attachments/assets/f2946fd2-ba49-45e9-964f-c6c98a7f5a42" />
 
 
 
