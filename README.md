@@ -1850,16 +1850,28 @@ MATLAB Area Under Curve Database Analysis Script
 
 
 📋 Usage Guidelines
-Anaconda Navigator
+Anaconda Navigator | download Anaconda Navigator and install Anaconda3-2025.06- for Windows, for details, follow the instructions on the  website  https://www.anaconda.com/download 
 
-VS Code
+VS Code | Download VS Studio Code (Version:1.105.1) and install for Windows, for details, follow the instructions on the website: https://code.visualstudio.com/download 
 
-.YML Package Install
+.YML Package Install | Download the .YML file on your system and place it in separate folder. 
+Open Anaconda prompt and navigate (base) to the folder directory with the CD command. 
+
 
 Set Up the Environment
 
-Install the required packages as described above (YAML or pip).
+Install the required packages as described above (YAML or pip). 
+Run command in Anaconda Propmt while in the right directory,
 
+conda env create -f environment_Nucleus.yml
+
+3D macrophage Analysis
+
+or
+
+
+conda env create -f environment.yml
+2D+T
 Use the recommended Python environment (e.g., Microscopy_Analysis_Advanced2).
 
 Ensure the interpreter is set to the proper Python 3.9 environment.
@@ -1867,4 +1879,36 @@ Ensure the interpreter is set to the proper Python 3.9 environment.
 Run the script to generate output.
 
 The file has to be first opened in VS Code or Pycharm with Proper Python Interpreter (this is the Environment, 3.9 Python Base that should be installed from .yml file) - For example, Microscopy_Analysis_Advanced2 (My Current Environment).
+
+
+Demo Macrophage Analysis:
+
+
+
+<img width="3831" height="1938" alt="DEMO_OUTPUT" src="https://github.com/user-attachments/assets/110d7b62-19f8-4240-bc32-4664ebbe2f28" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Demo Tracking Analysis:
+
+Demo Frame of Onset Analysis:
+
+
 
