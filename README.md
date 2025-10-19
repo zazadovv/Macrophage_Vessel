@@ -49,13 +49,96 @@ This repository includes the following primary components:
 Macrophage Nuclear Mechanotransduction Analysis Script
 
 Neutrophil Tracking Analysis Script 
+
 Macrophage Tracking Analysis Script
+
+Frame of Onset Permeability Analysis Script
+
+MATLAB Area Under Curve Database Analysis Script
+
+
+📋 Usage Guidelines
+Anaconda Navigator | download Anaconda Navigator and install Anaconda3-2025.06- for Windows, for details, follow the instructions on the  website  https://www.anaconda.com/download 
+
+VS Code | Download VS Studio Code (Version:1.105.1) and install for Windows, for details, follow the instructions on the website: https://code.visualstudio.com/download 
+
+.YML Package Install | Download the .YML file on your system and place it in separate folder. 
+Open Anaconda prompt and navigate (base) to the folder directory with the CD command. 
+
+
+Set Up the Environment
+
+Install the required packages as described above (YAML or pip). 
+Run command in Anaconda Propmt while in the right directory,
+
+conda env create -f environment_Nucleus.yml
+
+3D macrophage Analysis
+
+or
+
+
+conda env create -f environment.yml
+2D+T
+Use the recommended Python environment (e.g., Microscopy_Analysis_Advanced2).
+
+Ensure the interpreter is set to the proper Python 3.9 environment.
+
+Run the script to generate output.
+
+The file has to be first opened in VS Code or Pycharm with Proper Python Interpreter (this is the Environment, 3.9 Python Base that should be installed from .yml file) - For example, Microscopy_Analysis_Advanced2 (My Current Environment).
+
+
+Demo Macrophage Analysis:
+
+Processing Steps:
+
+After Running the scode in VS with proper 3.8 Python Interpreter, the first prompt allows to indicate how many frames to process: in this example I indicated 20;25;30 - any non-0 points can be chosen. 
+
+<img width="431" height="178" alt="Screenshot 2025-10-19 003222" src="https://github.com/user-attachments/assets/421dcef5-d825-4f3b-a10c-36f2407f47bb" />
+
+<img width="1724" height="166" alt="Screenshot 2025-10-19 002957" src="https://github.com/user-attachments/assets/f89ff08f-a761-4442-b27c-ec88cd8c9c8b" />
+
+<img width="3831" height="1938" alt="DEMO_OUTPUT" src="https://github.com/user-attachments/assets/110d7b62-19f8-4240-bc32-4664ebbe2f28" />
+
+
+
+
+
+<img width="3833" height="2006" alt="Screenshot 2025-10-19 003926" src="https://github.com/user-attachments/assets/1a162fd3-d681-4bb5-b6f2-a817836af17f" />
+
+
+
+
+
+<img width="3826" height="2004" alt="Screenshot 2025-10-19 004846" src="https://github.com/user-attachments/assets/8bc73e80-43fb-48eb-9ce3-55871d924b46" />
+
+
+
+
+<img width="3826" height="1973" alt="Screenshot 2025-10-19 013119" src="https://github.com/user-attachments/assets/dd5f4ee3-2761-4460-990c-0db0ab6db9ad" />
+
+
+
+The Script outpts file_segmentation_result.hdf5 file and result.csv file, which contains object data for mid-section volume, and rim-binding. These files were taken and manually cropped and registered for time of wounding and compared between wound conditions. 
+
+
+Demo Tracking Analysis:
 
 ![20230713_3dpf_tgNTR2 0_QUAS_LYZ_QF2_24hrs_DMSO_70kDaDextran_ISOHYPO_E8_F11](https://github.com/user-attachments/assets/364189f4-73ee-48eb-99d6-08a85443ccc3)
 
 ![20230713_3dpf_tg(NTR2 0_QUAS_LYZ_QF2)_24hrs_DMSO_70kDa Dextran_ISO+HYPO_E8_F11_napari_direct (1)](https://github.com/user-attachments/assets/b575ed30-bfa3-437d-ae36-9aab93a14b84)
 
-Frame of Onset Permeability Analysis Script
+
+
+
+
+
+
+
+
+Demo Frame of Onset Analysis:
+
 
 ![20240325_3dp_casper_63x_500kDA_ISO_ISO_E1_F1 _delta_intensity_map](https://github.com/user-attachments/assets/79801d6e-e4d9-48a7-b82e-9b1a98cf2a2f)
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
@@ -1846,78 +1929,6 @@ z
 </svg>
 
 
-MATLAB Area Under Curve Database Analysis Script
-
-
-📋 Usage Guidelines
-Anaconda Navigator | download Anaconda Navigator and install Anaconda3-2025.06- for Windows, for details, follow the instructions on the  website  https://www.anaconda.com/download 
-
-VS Code | Download VS Studio Code (Version:1.105.1) and install for Windows, for details, follow the instructions on the website: https://code.visualstudio.com/download 
-
-.YML Package Install | Download the .YML file on your system and place it in separate folder. 
-Open Anaconda prompt and navigate (base) to the folder directory with the CD command. 
-
-
-Set Up the Environment
-
-Install the required packages as described above (YAML or pip). 
-Run command in Anaconda Propmt while in the right directory,
-
-conda env create -f environment_Nucleus.yml
-
-3D macrophage Analysis
-
-or
-
-
-conda env create -f environment.yml
-2D+T
-Use the recommended Python environment (e.g., Microscopy_Analysis_Advanced2).
-
-Ensure the interpreter is set to the proper Python 3.9 environment.
-
-Run the script to generate output.
-
-The file has to be first opened in VS Code or Pycharm with Proper Python Interpreter (this is the Environment, 3.9 Python Base that should be installed from .yml file) - For example, Microscopy_Analysis_Advanced2 (My Current Environment).
-
-
-Demo Macrophage Analysis:
-
-Processing Steps:
-
-After Running the scode in VS with proper 3.8 Python Interpreter, the first prompt allows to indicate how many frames to process: in this example I indicated 20;25;30 - any non-0 points can be chosen. 
-
-<img width="431" height="178" alt="Screenshot 2025-10-19 003222" src="https://github.com/user-attachments/assets/421dcef5-d825-4f3b-a10c-36f2407f47bb" />
-
-<img width="1724" height="166" alt="Screenshot 2025-10-19 002957" src="https://github.com/user-attachments/assets/f89ff08f-a761-4442-b27c-ec88cd8c9c8b" />
-
-<img width="3831" height="1938" alt="DEMO_OUTPUT" src="https://github.com/user-attachments/assets/110d7b62-19f8-4240-bc32-4664ebbe2f28" />
-
-
-
-
-
-<img width="3833" height="2006" alt="Screenshot 2025-10-19 003926" src="https://github.com/user-attachments/assets/1a162fd3-d681-4bb5-b6f2-a817836af17f" />
-
-
-
-
-
-<img width="3826" height="2004" alt="Screenshot 2025-10-19 004846" src="https://github.com/user-attachments/assets/8bc73e80-43fb-48eb-9ce3-55871d924b46" />
-
-
-
-
-<img width="3826" height="1973" alt="Screenshot 2025-10-19 013119" src="https://github.com/user-attachments/assets/dd5f4ee3-2761-4460-990c-0db0ab6db9ad" />
-
-
-
-The Script outpts file_segmentation_result.hdf5 file and result.csv file, which contains object data for mid-section volume, and rim-binding. These files were taken and manually cropped and registered for time of wounding and compared between wound conditions. 
-
-
-Demo Tracking Analysis:
-
-Demo Frame of Onset Analysis:
 
 
 
