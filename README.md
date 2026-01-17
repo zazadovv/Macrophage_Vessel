@@ -2000,6 +2000,15 @@ z
   </clipPath>
  </defs>
 </svg>
+     
+MATLAB:
+Refer to Dataframe.xlsx, this Dataframe contains all Dextran Data used in the manuscript. Place the Dataframe file and .mlx code in the same folder with dependencies listed:
+<img width="1064" height="726" alt="Screenshot 2026-01-17 162705" src="https://github.com/user-attachments/assets/26b6ec0e-4897-4a9f-a8c3-fe66a627e606" />
+Initialze the MATLAB and open directory with dataframe, necessary plugins and .mlx script (VesselDatProcessor_Integral_cumulative_all_timepoints_and_limits.mlx)
+Run the script in live editor:
+<img width="796" height="125" alt="Screenshot 2026-01-17 163250" src="https://github.com/user-attachments/assets/d94e0e50-7f60-4675-b823-6646f0e162b2" />
+
+Output:
 
 
 The given Repository contains demo input and output files in addition to the source code as described above. 
