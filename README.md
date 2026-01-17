@@ -2015,6 +2015,9 @@ to re-plot the intensity rate in matlab refer to MATLAB script file: VesselInten
 
 <img width="1040" height="459" alt="Screenshot 2026-01-17 163655" src="https://github.com/user-attachments/assets/49fe8717-543a-4755-8190-41c7e086a63c" />
 Output:
+<img width="766" height="457" alt="Screenshot 2026-01-17 163854" src="https://github.com/user-attachments/assets/0d8fef0c-8278-45c6-ac95-54e799fe38a3" />
+
+
 
 
 The given Repository contains demo input and output files in addition to the source code as described above. 
