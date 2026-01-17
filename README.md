@@ -2009,6 +2009,12 @@ Run the script in live editor:
 <img width="796" height="125" alt="Screenshot 2026-01-17 163250" src="https://github.com/user-attachments/assets/d94e0e50-7f60-4675-b823-6646f0e162b2" />
 
 Output:
+<img width="971" height="610" alt="Screenshot 2026-01-17 162716" src="https://github.com/user-attachments/assets/96acfee6-1d0e-457d-9931-e6c741b38a90" />
+ProcessedVesselData.xlsx; The processed dataframe can now be fed into VesselIntensityRatePlotting2(updated).mlx script:
+to re-plot the intensity rate in matlab refer to MATLAB script file: VesselIntensityRatePlotting2(updated).mlx
+
+<img width="1040" height="459" alt="Screenshot 2026-01-17 163655" src="https://github.com/user-attachments/assets/49fe8717-543a-4755-8190-41c7e086a63c" />
+Output:
 
 
 The given Repository contains demo input and output files in addition to the source code as described above. 
